@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+
+h1 {
+    color: aqua;
+}
+
+img {
+    height: 100px;
+    background-color: red;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(34, 25, 27);
+    border-width: 5px;
+    width: 20%;
+}
+ 
+h3 {
+    color: aqua;
+}
